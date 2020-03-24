@@ -5,7 +5,7 @@ Evaluating and constructing simple linear regression models to predict the next 
 |                  | Italy | Spain |  USA  | Brazil |
 |:----------------:|:-----:|:-----:|:-----:|:------:|
 | 22/3 prediction  | 61,280 | 30,220 | 36,702 |  1,502  |
-|  22/3 real cases | 59,138 | 28,768 | 33,272 |  1,593  |
+|  22/3 real cases | **59,138** | **28,768** | **33,272** |  **1,593**  |
 | 23/3 prediction  | 67,520 | 34,738 | 40,826 |  1,735  |
 |  23/3 real cases | ? | ? | ? |  ?  |
 
