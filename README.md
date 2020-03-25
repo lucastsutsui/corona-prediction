@@ -1,6 +1,6 @@
-# Predicting the next day value for confirmed cases of coronavirus in some countries.
+# Predicting the next day value for confirmed cases of covid-19 in some countries.
 
-Evaluating and constructing simple linear regression models to predict the next day number for **confirmed cases** of coronavirus in Italy, Spain, USA, and Brazil.
+Evaluating and constructing simple linear regression models to predict the next day number for **confirmed cases** of covid-19 in Italy, Spain, USA, and Brazil.
 
 |                  | Italy | Spain |  USA  | Brazil |
 |:----------------:|:-----:|:-----:|:-----:|:------:|
