@@ -9,6 +9,8 @@ Evaluating and constructing simple linear regression models to predict the next 
 | 3/23 prediction  | 67,520 | 34,738 | 40,826 |  1,735  |
 |  3/23 real cases | **63,927** | **35,136** | **43,847** |  **1,924**  |
 | 3/24 prediction  | 72,271 | 41,391 | 58,754 |  2,724  |
-|  3/24 real cases | ? | ? | ? |  ?  |
+|  3/24 real cases | **69,176** | **39,885** | **53,740** |  **2,247**  |
+| 3/25 prediction  | 74,193 | 47,498 | 71,377 |  2,935  |
+|  3/25 real cases | ? | ? | ? |  ?  |
 
 Dataset source: [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
