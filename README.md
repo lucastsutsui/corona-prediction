@@ -17,4 +17,10 @@ Evaluating and constructing simple linear regression models to predict the next 
 | 3/27 prediction  | 84,706 | 73,091 | 105,078 |  3,531  |
 |  3/27 real cases | ? | ? | ? |  ?  |
 
+**Average error** = 6.12 %
+
+# Error formula
+error = abs(y_predicted - y_real) / y_real
+average_error = sum(error_i) for each prediction i
+
 Dataset source: [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
