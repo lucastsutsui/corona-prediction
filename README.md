@@ -17,9 +17,11 @@ Evaluating and constructing simple linear regression models to predict the next 
 | 3/27 prediction  | 84,706 | 73,091 | 105,078 |  3,531  |
 |  3/27 real cases | **86,498** | **65,719** | **101,657** |  **3,417**  |
 | 3/28 prediction  | 90,941 | 77,689 | 128,144 |  4,006  |
-|  3/28 real cases | ? | ? | ? |  ?  |
+|  3/28 real cases | **92,472** | **73,235** | **121,478** |  **3,904**  |
+| 3/29 prediction  | 96,935 | 85,432 | 150,621 |  4,521  |
+|  3/29 real cases | ? | ? | ? |  ?  |
 
-**Average error** = 5.93 %
+**Average error** = 5.65 %
 
 # Error formula
 
