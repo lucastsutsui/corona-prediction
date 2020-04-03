@@ -37,7 +37,7 @@ Evaluating and constructing simple linear regression models to predict the next 
 
 error = abs(y_predicted - y_real) / y_real
 
-average_error = sum(error_i) for each prediction i
+average_error = mean(error_i, for each prediction i)
 
 # Dataset source 
 [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
