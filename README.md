@@ -45,15 +45,17 @@ Evaluating and constructing simple linear regression models to predict the next 
 | 4/10 prediction  | 145,457 | 155,970 | 484,330 |  20,427  |
 |  4/10 real cases | **147,577** | **158,273** | **496,535** |  **19,638**  |
 | 4/11 prediction  | 151,271 | 160,685 | 519,275 |  22,106  |
-|  4/11 real cases | ? | ? | ? |  ?  |
+|  4/11 real cases | **152,271** | **163,027** | **526,396** |  **20,727**  |
+| 4/12 prediction  | 156,265 | 165,240 | 550,870 |  23,104  |
+|  4/12 real cases | ? | ? | ? |  ?  |
 
-**Average error** = 3.66 %
+**Average error** = 3.61 %
 
 # Error formula
 
 error = abs(y_predicted - y_real) / y_real
 
-average_error = mean(error_i, for each prediction i)
+average_error = average(error_i, for each prediction i)
 
 # Dataset source 
 [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
