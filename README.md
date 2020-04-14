@@ -49,9 +49,11 @@ Evaluating and constructing simple linear regression models to predict the next 
 | 4/12 prediction  | 156,265 | 165,240 | 550,870 |  23,104  |
 |  4/12 real cases | **156,363** | **166,831** | **555,313** |  **22,192**  |
 | 4/13 prediction  | 160,886 | 168,959 | 578,426 |  23,561  |
-|  4/13 real cases | ? | ? | ? |  ?  |
+|  4/13 real cases | **159,516** | **170,099** | **580,619** |  **23,430**  |
+| 4/14 prediction  | 163,166 | 172,002 | 602,465 |  24,713  |
+|  4/14 real cases | ? | ? | ? |  ?  |
 
-**Average error** = 3.51 %
+**Average error** = 3.39 %
 
 # Error formula
 
